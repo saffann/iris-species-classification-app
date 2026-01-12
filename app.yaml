@@ -5,7 +5,7 @@
 name: Iris Species Classification App
 
 # A brief description of what the application does.
-description: "Classify iris flowers in real time with a PyTorch model—see predictions on an Arduino LED matrix by entering measurements via the web interface."
+description: "Classify iris flowers in real time with a PyTorch model and see predictions on an Arduino LED matrix by entering measurements via the web interface."
 
 # The icon for the application, can be an emoji or a short string.
 icon: 🌸

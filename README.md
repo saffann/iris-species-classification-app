@@ -1,6 +1,6 @@
 # Iris Species Classification App
 
-Classify iris flowers in real time with a PyTorch model—see predictions on an Arduino LED matrix by entering measurements via the web interface.
+Classify iris flowers in real time with a PyTorch model and see predictions on an Arduino LED matrix by entering measurements via the web interface.
 
 ## Description
 
