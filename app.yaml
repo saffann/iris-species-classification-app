@@ -15,4 +15,4 @@ icon: 🌸
 ports: [7000]
 
 # A list of bricks used by this application.
-bricks: [web_ui]
+bricks: []
