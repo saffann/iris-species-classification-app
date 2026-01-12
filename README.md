@@ -12,7 +12,7 @@ The `assets` folder contains the **frontend** components of the application, inc
 
 The Iris Species Classification App uses the following Bricks:
 
-- `web_ui`: Brick to create a web interface for inputting iris measurements and displaying predictions.
+- `arduino:web_ui`: Brick to create a web interface for inputting iris measurements and displaying predictions.
 
 ## Hardware and Software Requirements
 
@@ -47,6 +47,16 @@ The web interface validates that all inputs are proper floats:
 - Integers are rejected (e.g., `5` must be entered as `5.0`)
 - Text/strings are rejected
 - Valid format examples: `5.1`, `3.5`, `1.4`, `0.2`
+
+### Example Measurements
+
+Try these sample measurements to test each species prediction:
+
+| Species | Sepal Length | Sepal Width | Petal Length | Petal Width |
+|---------|--------------|-------------|--------------|-------------|
+| Setosa | 5.1 | 3.5 | 1.4 | 0.2 |
+| Versicolor | 5.9 | 2.8 | 4.3 | 1.3 |
+| Virginica | 6.6 | 3.0 | 5.5 | 2.0 |
 
 ## How it Works
 
