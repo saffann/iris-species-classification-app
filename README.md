@@ -1,6 +1,6 @@
 # Iris Species Classification App
 
-The Iris Species Classification App uses a trained PyTorch model to classify iris flowers and display the predicted species on the Arduino UNO Q LED matrix using distinct flower patterns for Setosa, Versicolor, or Virginica. A web-based interface allows users to input iris measurements for real-time classification.
+Classify iris flowers in real time with a PyTorch model—see predictions on an Arduino LED matrix by entering measurements via the web interface.
 
 ## Description
 
